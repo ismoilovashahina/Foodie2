@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_permission">Соглашение о согласии — это подписанный документ, в котором излагается информированное согласие участника на медицинское исследование, клиническое испытание, процедуру или деятельность. Независимо от того, управляете ли вы телемедицинской практикой, медицинской клиникой или вам нужно собирать отказы от участников деятельности, вы можете использовать наши бесплатные шаблоны соглашений о согласии, чтобы мгновенно превратить отправленные формы в подписанные соглашения о согласии в формате PDF! Переходя на безбумажную документацию и беспрепятственно получая электронные подписи и информированное согласие в Интернете, вы можете одновременно упорядочивать свои записи, сокращать количество выполняемых вручную операций и оптимизировать рабочий процесс.</string>
+    <string name="next">дальше</string>
+    <string name="agreement">Cоглашение</string>
+    <string name="permission">Разрешение</string>
+    <string name="my_cart">Моя корзинка</string>
+    <string name="order">Заказ</string>
+    <string name="clear_all">Удалять все</string>
+    <string name="don_t_forget">Не забывайте</string>
+    <string name="next_step">Следующий шаг</string>
+    <string name="dollar">$</string>
+    <string name="_85_18">85.18</string>
+    <string name="get_started">Начать</string>
+
+    <string name="login">Логин</string>
+    <string name="email_address">Email адрес</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="don_t_have_an_accaunt_yet">У вас еще нет аккаунта?</string>
+    <string name="sing_up">Зарегистрироваться</string>
+    <string name="order_from_foodie">Заказ в Foodie</string>
+    <string name="create_accaunt">Создать аккаунт</string>
+    <string name="name">Имя</string>
+    <string name="phone_number">Телефон номер</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="don_t_have_an_accaunt">У вас еще нет аккаунта?</string>
+    <string name="create_pin_code">Создать пин-код</string>
+    <string name="save">Cохранять</string>
+    <string name="price">Цена:</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="next_order">Следующий заказ</string>
+    <string name="clear">Очистить</string>
+    <string name="total">Общий</string>
+    <string name="my_order">Мой заказ</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="order_here">Закажите здесь</string>
+
+    <string name="enter_pin_code">Пин-код</string>
+    <string name="your_food_is_on_the_way">Ваш заказ на дороге</string>
+
+    <string name="quantity">Количество:</string>
+
+    <string name="search">Поиск</string>
+    <string name="recommended">Рекомендуемые</string>
+    <string name="choose_category">Выберите категорию</string>
+
+    <string name="extended">Больше</string>
+
+</resources>

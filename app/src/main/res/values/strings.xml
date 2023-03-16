@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Foodie2</string>
+    <string name="text_permission">A consent agreement is a signed document that outlines the informed consent of a participant for a medical study, clinical trial, procedure, or activity. Whether you run a telemedicine practice, medical clinic, or need to collect waivers from activity participants, you can use our free Consent Agreement Templates to instantly turn form submissions into signed PDF consent agreements! By going paperless and seamlessly receiving e-signatures and informed consent online, you can simultaneously organize your records, reduce manual tasks, and streamline your workflow.</string>
+    <string name="next">Next</string>
+    <string name="agreement">Agreement</string>
+    <string name="permission">Permission</string>
+    <string name="my_cart">My Cart</string>
+    <string name="order">Order</string>
+    <string name="clear_all">Clear all</string>
+    <string name="don_t_forget">Don\'t Forget</string>
+    <string name="next_step">Next Step</string>
+    <string name="dollar">$</string>
+    <string name="_85_18">85.18</string>
+    <string name="get_started">get started</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">sign in</string>
+    <string name="don_t_have_an_accaunt_yet">Don\'t have an accaunt yet</string>
+    <string name="sing_up">Sing up</string>
+    <string name="order_from_foodie">Order from Foodie</string>
+    <string name="create_accaunt">Create accaunt</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="sign_up">Sign up</string>
+    <string name="don_t_have_an_accaunt">Don\'t have an accaunt?</string>
+    <string name="create_pin_code">Create pin-code</string>
+    <string name="save">Save</string>
+    <string name="price">Price:</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="next_order">Next Order</string>
+    <string name="clear">Clear</string>
+    <string name="total">Total</string>
+    <string name="my_order">My Order</string>
+    <string name="welcome">Welcome</string>
+    <string name="order_here">Order here</string>
+    <string name="enter_pin_code">Enter pin code</string>
+    <string name="your_food_is_on_the_way">Your Food is On The Way</string>
+    <string name="quantity">Quantity:</string>
+    <string name="search">Search</string>
+    <string name="recommended">Recommended</string>
+    <string name="choose_category">Choose category</string>
+    <string name="extended">Extended</string>
+
+</resources>
